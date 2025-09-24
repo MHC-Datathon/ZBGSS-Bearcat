@@ -1,4 +1,4 @@
-# 🚍 NYC Bus Violation Impact Analysis
+# 🚍 Measuring the Impact of Traffic Violations on NYC Bus Travel Times
 ## 📖 Project Overview
 
 - This project was developed as part of the MHC++ Datathon, a competition focused on data-driven solutions to real-world problems. Our team analyzed MTA Bus Automated Camera Enforcement (ACE) violation data and bus speed data to understand how different types of traffic violations impact travel times and delays.
